@@ -1,0 +1,11 @@
+
+.root
+{	-fx-background-color:#FFFFFF;
+	-fx-border-color: #000000;
+    -fx-border-width: 2px;
+}
+.hbox
+{		-fx-font-color: #FFFFFF;
+		fx-font-weight: bold;
+
+}
